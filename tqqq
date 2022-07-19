@@ -1,0 +1,10 @@
+=> [34;4mApp\Models\Post[39;24m {#4473
+     [34mid[39m: [35m1[39m,
+     [34mtitle[39m: "[32mPost 1[39m",
+     [34mdescription[39m: "[32mDescription of Post 1[39m",
+     [34mview_count[39m: [35m0[39m,
+     [34mlike_count[39m: [35m0[39m,
+     [34mcreated_at[39m: "[32m2022-07-19 05:53:31[39m",
+     [34mupdated_at[39m: "[32m2022-07-19 05:53:31[39m",
+   }
+
